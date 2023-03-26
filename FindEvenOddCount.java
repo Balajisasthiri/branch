@@ -15,8 +15,8 @@ public static void main(String[] args) {
 		sum=sum+i;
 	}
 		System.out.println("Evencount="+e);
-		System.out.println("Odd count="+o);
-		System.out.println(sum);
+		//System.out.println("Odd count="+o);
+		//System.out.println(sum);
 	}
 }
 

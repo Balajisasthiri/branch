@@ -6,7 +6,7 @@ public static void main(String[] args) {
 	for (int i=0;i<=5;i++) {
 	    total=total+i;
 }
-System.out.println(total);
+System.out.println(total+5);
 
 }
 
